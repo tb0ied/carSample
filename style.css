@@ -1,0 +1,26 @@
+body {
+  color: black;
+  background-color: #c4f4e2;
+}
+
+table {
+  font-family: monospace;
+}
+
+tr:nth-child(odd) {
+  background-color: honeydew;
+}
+
+tr:nth-child(even) {
+  background-color: mediumseagreen;
+}
+
+th {
+  background-color: goldenrod;
+  color: white;
+  padding: 16px;
+}
+
+td {
+  padding: 8px;
+}
